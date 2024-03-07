@@ -66,3 +66,37 @@ Using category filters:
 
 The list of available model *dmi* names can be obtained from here:  
 <https://github.com/Slimbook-Team/libslimbook/blob/main/src/slimbook.cpp>
+
+
+# Client side notes
+
+Notifications are provided by slimbook-service package. This software runs two daemons, a system one, running as root, and a session one, running with user credentials. In fact, if another user session is opened, another user daemon will spawn.  
+
+Notifications are fetched from user side, along with its settings. This is how notifications are currently fetched:  
+
+* A fetch is scheduled to 5 seconds since application starts
+* Since first startup fetch, another one is scheduled each 6 hours
+* A fetch process is canceled if cached *xml* is less than an hour old
+
+## Cache
+
+Notifications *xml* is stored at home user under following path:  
+
+```
+~/.cache/slimbook-service/sb-rss.xml
+```
+
+The file name is not locale aware, so no matter if sb-rss-en.xml or sb-rss-es.xml is fetched, it will be stored as sb-rss.xml. You may want to delete this file in order to force service to fetch another one.  
+
+Once xml is parsed, a *MD5* hash is computed for each item. Hash is then look up in local hash cache, if it does not exists there, that notification item is considered as new, and then service will pop up a message to user.  
+
+Hash cache is stored here:  
+
+```
+~/.cache/slimbook-service/feeds.dat
+```
+
+The file is only a line separated list of md5 in ascii format.
+
+
+
