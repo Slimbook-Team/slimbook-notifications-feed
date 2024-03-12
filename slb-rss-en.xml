@@ -6,5 +6,10 @@
     <link>https://github.com/Slimbook-Team/slimbook-notifications-feed</link>
     <description>Slimbook English RSS feed</description>
 
+    <item>
+        <title>Hello world</title>
+        <description>Introducing Slimbook Notifications</description>
+        <link>https://slimbook.com/en/blog/guides-2/post/slimbook-notifications-389</link>
+    </item>
 </channel>
 </rss> 
