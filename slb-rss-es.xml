@@ -11,5 +11,21 @@
         <description>Presentamos Slimbook Notifications</description>
         <link>https://slimbook.com/blog/tutoriales-2/post/slimbook-notifications-389</link>
     </item>
+
+    <item>
+        <title>Última versión de BIOS para tu Elemental</title>
+        <description>Hace unos días lanzamos una actualización para la BIOS de los Elemental. Puedes ver más info en el siguiente enlace</description>
+        <link>https://slimbook.com/blog/noticias-1/post/ultimas-actualizaciones-de-bios-y-ec-para-los-executive-hero-elemental-y-essential-388</link>
+        <category>model:elemental*</category>
+        <category>firmware</category>
+    </item>
+
+    <item>
+        <title>Última versión de BIOS para tu Hero</title>
+        <description>Hace unos días lanzamos una actualización para la BIOS de los Hero. Puedes ver más info en el siguiente enlace</description>
+        <link>https://slimbook.com/blog/noticias-1/post/ultimas-actualizaciones-de-bios-y-ec-para-los-executive-hero-elemental-y-essential-388</link>
+        <category>model:hero-rpl*</category>
+        <category>firmware</category>
+    </item>
 </channel>
 </rss> 
