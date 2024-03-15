@@ -27,5 +27,13 @@
         <category>model:hero-rpl*</category>
         <category>firmware</category>
     </item>
+
+    <item>
+        <title>Latest BIOS version for your Executive</title>
+        <description>A few days ago we released an update for the Executive BIOS. You can see more info in the following link</description>
+        <link>https://slimbook.com/en/blog/news-1/post/latest-bios-and-ec-updates-for-executive-hero-elemental-and-essential-388</link>
+        <category>model:executive</category>
+        <category>firmware</category>
+    </item>
 </channel>
 </rss> 
