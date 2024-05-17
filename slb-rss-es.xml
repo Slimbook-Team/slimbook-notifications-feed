@@ -35,5 +35,14 @@
         <category>model:executive</category>
         <category>firmware</category>
     </item>
+
+    <item>
+        <title>Última versión de BIOS y EC para tu Excalibur</title>
+        <description>Hace unos días lanzamos una actualización para la BIOS y el EC de los Excalibur. Puedes ver más info en el siguiente enlace</description>
+        <link>https://slimbook.com/blog/noticias-1/post/actualizacion-de-bios-y-ec-para-los-excalibur-402</link>
+        <category>model:excalibur-16-amd7</category>
+        <category>firmware</category>
+        <pubDate>Fri, 17 May 2024 12:20:00 GMT+1</pubDate>
+    </item>
 </channel>
 </rss> 
