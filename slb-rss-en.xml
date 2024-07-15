@@ -54,5 +54,14 @@
         <category>firmware</category>
         <pubDate>Thu, 04 Jul 2024 15:31:00 GMT+1</pubDate>
     </item>
+
+    <item>
+        <title>BIOS update for ProX with AMD processor</title>
+        <description>If you have a 14" or 15" ProX with AMD processor, you are in luck! You can download the latest version of its BIOS. You can see more info in the following link</description>
+        <link>https://slimbook.com/en/blog/news-1/post/bios-update-for-prox-with-amd-processor-411</link>
+        <category>model:prox-am*</category>
+        <category>firmware</category>
+        <pubDate>Mod, 15 Jul 2024 15:25:00 GMT+1</pubDate>
+    </item>
 </channel>
 </rss> 
