@@ -60,8 +60,10 @@
         <description>Si tienes un ProX tanto de 14 como de 15 pulgadas con procesador AMD ¡estás de enhorabuena! Ya puedes descargar la última versión de su BIOS. Puedes ver más info en el siguiente enlace</description>
         <link>https://slimbook.com/blog/noticias-1/post/actualizacion-de-bios-para-los-prox-con-procesador-amd-411</link>
         <category>model:prox-am*</category>
+        <category>model:prox15-am*</category>
         <category>firmware</category>
         <pubDate>Mon, 15 Jul 2024 15:34:00 GMT+1</pubDate>
     </item>
+
 </channel>
 </rss> 
