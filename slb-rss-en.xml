@@ -64,5 +64,17 @@
         <category>firmware</category>
         <pubDate>Mon, 15 Jul 2024 15:25:00 GMT+1</pubDate>
     </item>
+
+    <item>
+        <title>New BIOS and EC update for ProX AMD 4800H and Intel 9th</title>
+        <description>You can now download the latest version of BIOS and EC for these devices. You can see more info in the following link</description>
+        <link>https://slimbook.com/en/blog/news-1/post/new-bios-and-ec-update-for-amd-4800h-and-intel-prox-9th-419</link>
+        <category>model:prox-amd</category>
+        <category>model:prox15-amd</category>
+        <category>model:prox15</category>
+        <category>firmware</category>
+        <pubDate>Fry, 16 Jul 2024 13:46:00 GMT+2</pubDate>
+    </item>
+    
 </channel>
 </rss> 
