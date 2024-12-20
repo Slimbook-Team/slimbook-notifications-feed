@@ -73,7 +73,17 @@
         <category>model:prox15-amd</category>
         <category>model:prox15</category>
         <category>firmware</category>
-        <pubDate>Fry, 16 Jul 2024 13:46:00 GMT+2</pubDate>
+        <pubDate>Fry, 16 Aug 2024 13:46:00 GMT+2</pubDate>
+    </item>
+
+    <item>
+        <title>BIOS update for Excalibur AMD 7840HS and 8845HS Silver</title>
+        <description>You can now download the latest version of BIOS for these devices. You can see more info in the following link</description>
+        <link>https://slimbook.com/en/blog/news-1/post/bios-update-for-excalibur-amd-7840hs-and-8845hs-438</link>
+        <category>model:excalibur-16-amd7</category>
+        <category>model:excalibur-16-amd8</category>
+        <category>firmware</category>
+        <pubDate>Fry, 28 Dec 2024 13:11:00 GMT+1</pubDate>
     </item>
     
 </channel>
