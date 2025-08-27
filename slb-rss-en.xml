@@ -85,6 +85,15 @@
         <category>firmware</category>
         <pubDate>Fri, 28 Dec 2024 13:11:00 GMT+1</pubDate>
     </item>
+
+    <item>
+        <title>Latest BIOS version for your EVO</title>
+        <description>You can now download the latest BIOS and EC version for this model. You can see more information in the following link</description>
+        <link>https://slimbook.com/en/blog/news-1/post/new-bios-and-ec-update-for-evo-477</link>
+        <category>model:evo*</category>
+        <category>firmware</category>
+        <pubDate>Wed, 27 Aug 2025 16:00:00 GMT+2</pubDate>
+    </item>
     
 </channel>
 </rss> 
