@@ -90,7 +90,7 @@
         <title>Última versión de BIOS y EC para tu EVO</title>
         <description>Puede descargar ahora las últimas versiones de BIOS y EC para tu equipo EVO. Para más información, sigue el siguiente enlace</description>
         <link>https://slimbook.com/blog/noticias-1/post/nueva-actualizacion-bios-y-ec-para-evo-477</link>
-        <category>model:evo*</category>
+        <category>model:evo\d{2}-a8</category>
         <category>firmware</category>
         <pubDate>Wed, 27 Aug 2025 16:00:00 GMT+2</pubDate>
     </item>
