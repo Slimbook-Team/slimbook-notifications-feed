@@ -94,6 +94,15 @@
         <category>firmware</category>
         <pubDate>Wed, 27 Aug 2025 16:00:00 GMT+2</pubDate>
     </item>
+
+    <item>
+        <title>Problemas de inestabilidad con driver AMDGPU</title>
+        <description>Modelos con CPUs basadas en AI9 300 series son propensos a dar problemas de inestabilidad y bloqueos con algunas versiones del driver de AMDGPU. Ofrecemos algunas soluciones que pueden solucionar el problema. Aunque sufras problemas con estas soluciones, no te preocupes. Será solucionado en próximas versiones del kernel.</description>
+        <link>https://slimbook.com/en/blog/guides-2/post/linux-problems-with-amd-486</link>
+        <category>model:evo\d{2}-ai9-stp</category>
+        <category>model:excalibur-amd-ai-</category>
+        <pubDate>Fri, 30 Jan 2026 12:00:00 GMT+2</pubDate>
+    </item>
     
 </channel>
 </rss> 
