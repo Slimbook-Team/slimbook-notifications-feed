@@ -127,5 +127,14 @@
         <category>model:excalibur-amd-ai</category>
         <pubDate>Fri, 20 Mar 2026 9:00:00 GMT+2</pubDate>
     </item>
+
+    <item>
+        <title>Nueva actualización BIOS y EC para EVO 8845HS, AI9 y CREATIVE AI9</title>
+        <description>Ahora puedes descargar la última actualización de BOIS y EC para tu equipo. Para más información, sigue el siguiente enlace</description>
+        <link>https://slimbook.com/blog/noticias-1/post/actualizacion-bios-y-ec-evo-y-creative-ai9-545</link>
+        <category>model:evo*</category>
+        <category>model:crea15-ai9-rtx5</category>
+        <pubDate>Tue, 21 Jul 2026 9:00:00 GMT+2</pubDate>
+    </item>
 </channel>
 </rss> 
